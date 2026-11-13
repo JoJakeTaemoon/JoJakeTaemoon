@@ -9,7 +9,7 @@
 <a href="https://github.com/JoJakeTaemoon/portfolio-site"><img src="https://img.shields.io/badge/Source-portfolio--site-2f5d50?style=for-the-badge&labelColor=1c1c1a&logo=github&logoColor=white" alt="Source code of the site"></a>
 </p>
 
-I design and run a role-based AI agent team. The agents do design, implementation, testing and review; I set the roles and the gates (the checks work must pass before it moves on). Irreversible or outward-facing actions, such as deploys and pushes, run on my instruction; design decisions go ahead on the agents' recommendation and are reviewed from the decision record. In 2026 I ran client projects this way, and every change request from the client was shipped within 24 hours. One of them, a fintech platform, went from scratch to the production data migration in five months.
+I design and run a role-based AI agent team. The agents do design, implementation, testing and review; I set the roles and the gates (the checks work must pass before it moves on). Irreversible or outward-facing actions, such as deploys and pushes, run on my instruction; design decisions go ahead on the agents' recommendation and are reviewed from the decision record. When a project needs it, I do the product planning too. In 2026 I ran client projects this way, and every change request from the client was shipped within 24 hours. One of them, a fintech platform, went from scratch to the production data migration in five months.
 
 > [!NOTE]
 > Most of my work lives in private client repositories: 239 public vs 3,493 private contributions in the past year (as of Nov 2026). Client projects below are anonymized.
@@ -141,7 +141,7 @@ This README, the site and its PDFs are built from one typed content source: [por
 
 ## How I lead
 
-- Built organisations from zero: a Vietnam R&D centre of 50 people in 6 months, and, as a co-founding CTO, a development team that shipped an MVP in 6 months and a 12-person product team.
+- Built organisations from zero: a Vietnam R&D centre of 50 people in 6 months, and, as a co-founding CTO, a development team that shipped an MVP in 6 months and a 12-person product team. More recently, from 2024, I managed a 30-person development team directly.
 - Split the roles and put gates in place: when setting up a company I defined finance, HR and engineering operations and the development methodology first, and built hiring assignments as real codebases with tests already in them (45 submissions in 2025). The agent team was split into 13 roles (9 plus 4 reviewers), and three of the reviewers sit in the pipeline's review stage.
 - Record decisions with their reasons: the agent team went ahead on recommended defaults so work never stalled; 192 of the 199 decisions record how hard they are to reverse, and those that reverse an earlier decision name the one they reverse.
 - Kept coding under leader titles: EVM smart contracts as a CTO, iPhone apps and back ends as a co-founding CTO.
@@ -151,7 +151,7 @@ This README, the site and its PDFs are built from one typed content source: [por
 
 AI 에이전트 팀으로 제품을 만드는 개발 리드
 
-역할별 AI 에이전트 팀을 설계해 운영합니다. 설계·구현·테스트·리뷰는 에이전트가 맡고, 저는 역할과 게이트(다음 단계로 넘기기 전에 통과해야 하는 검사)를 정합니다. 배포·푸시처럼 되돌릴 수 없거나 밖으로 나가는 행동은 제 지시로 실행하고, 설계 결정은 에이전트 추천안으로 진행한 뒤 결정 기록으로 검토합니다. 2026년에 이 방식으로 고객사 프로젝트를 진행했고, 고객의 수정 요청은 모두 24시간 안에 반영했습니다. 핀테크 플랫폼은 5개월 동안 처음부터 만들어 운영 데이터 이전까지 마쳤습니다.
+역할별 AI 에이전트 팀을 설계해 운영합니다. 설계·구현·테스트·리뷰는 에이전트가 맡고, 저는 역할과 게이트(다음 단계로 넘기기 전에 통과해야 하는 검사)를 정합니다. 배포·푸시처럼 되돌릴 수 없거나 밖으로 나가는 행동은 제 지시로 실행하고, 설계 결정은 에이전트 추천안으로 진행한 뒤 결정 기록으로 검토합니다. 필요하면 기획까지 맡습니다. 2026년에 이 방식으로 고객사 프로젝트를 진행했고, 고객의 수정 요청은 모두 24시간 안에 반영했습니다. 핀테크 플랫폼은 5개월 동안 처음부터 만들어 운영 데이터 이전까지 마쳤습니다.
 
 [한국어 포트폴리오](https://jake-jo-portfolio.vercel.app/ko/)
 
